@@ -23,4 +23,5 @@
 - https://app.fogito.com <br/>
 - https://melumat.az <br/>
 - http://mobilex.az <br/>
-- https://press.az/ <br/>
+- https://press.az <br/>
+- https://www.navimax.net <br/>
